@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# 생성 결과물
+result.png
+
+# 환경변수 / API 키
+.env
+.env.*
+*.key
+*.secret
+secrets.json
+config.local.*
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
